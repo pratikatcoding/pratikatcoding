@@ -1,4 +1,4 @@
-[README.md](https://github.com/user-attachments/files/25018644/README.md)
+
 <h1 align="center">Hi 👋, I'm Pratik Karmakar</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
