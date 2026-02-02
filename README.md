@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratik Karmakar</h1>
 <h3 align="center">A passionate software developer from India</h3>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00A6FF&center=true&vCenter=true&width=600&lines=Hi+I'm+YOUR+NAME;Welcome+to+my+GitHub+Profile;I+Love+Coding;Web+Developer+%7C+Programmer+%7C+Tech+Enthusiast)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikatcoding&label=Profile%20views&color=0e75b6&style=flat" alt="pratikatcoding" /> </p>
 
