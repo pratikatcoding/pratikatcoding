@@ -17,8 +17,7 @@
 <b>X.com 👇🏻</b>
 <p align="left"> <a href="https://twitter.com/pratikk__18" target="blank"><img src="https://img.shields.io/twitter/follow/pratikk__18?logo=twitter&style=for-the-badge" alt="pratikk__18" /></a> </p>
 
-<b>LinkedIn 👇🏻</b>
-<p align="left"> <a href="https://linkedin.com/pratik-karmakar-2335b02a4/" target="blank"><img src="https://img.shields.io/twitter/follow/pratik-karmakar-2335b02a4/?logo=twitter&style=for-the-badge" alt="pratik-karmakar-2335b02a4/" /></a> </p>
+
 
 - 🔭 I’m currently working on **E-commerce with AI product recommendation**
 
