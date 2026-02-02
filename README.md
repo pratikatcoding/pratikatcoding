@@ -1,5 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Pratik Karmakar</h1>
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=800&color=F700FF&center=true&vCenter=true&width=650&lines=Hi+I'm+Pratik+Karmakar;Web+Developer;Student;AI+Learner;Coding+Is+My+Passion!)
+
 <h3 align="center">A passionate software developer from India</h3>
 
 
