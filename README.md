@@ -15,7 +15,7 @@
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikatcoding" alt="pratikatcoding" /></a> </p> -->
 # 💫 About Me:
-🔭 I’m currently working on <b>E-commerce with AI product recommendation</b><br><br>🌱 I’m currently learning Regression, Classification, Decision Trees, Random Forest, SVM, KNN, Model tuning, Neural Networks, CNN, RNN/LSTM, Transformers<br><br>👯 I’m looking to collaborate on <b>Realtime Collaboration App</b><br><br>🤝 I’m looking for help with Network Vulnerability Scanner<br><br>👨‍💻 All of my projects are available at https://github.com/pratikatcoding<br><br>💬 Ask me about react, vue, etc.<br><br>📫 How to reach me pratikkarmakar764@gmail.com<br><br>⚡ Fun fact I think i am funny
+🔭 I’m currently working on <b>E-commerce with AI product recommendation</b><br><br>🌱 I’m currently learning <b>Regression, Classification, Decision Trees, Random Forest, SVM, KNN, Model tuning, Neural Networks, CNN, RNN/LSTM, Transformers</b><br><br>👯 I’m looking to collaborate on <b>Realtime Collaboration App</b><br><br>🤝 I’m looking for help with <b>Network Vulnerability Scanner</b><br><br>👨‍💻 All of my projects are available at https://github.com/pratikatcoding<br><br>💬 Ask me about <b>react, vue, etc.</b><br><br>📫 How to reach me pratikkarmakar764@gmail.com<br><br>⚡ Fun fact I think i am <b>funny</b>
 
 
 ## 🌐 Socials:
