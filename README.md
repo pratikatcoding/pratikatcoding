@@ -1,23 +1,45 @@
-<!-- MATRIX RAIN HEADER -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--              PRATIK KARMAKAR — GITHUB PROFILE             -->
+<!-- ═══════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
 ```
-██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗
-██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝
-██████╔╝██████╔╝███████║   ██║   ██║█████╔╝ 
-██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗ 
-██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗
-╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝
-         K A R M A K A R
+ ██████╗ ██████╗  █████╗ ████████╗██╗██╗  ██╗
+ ██╔══██╗██╔══██╗██╔══██╗╚══██╔══╝██║██║ ██╔╝
+ ██████╔╝██████╔╝███████║   ██║   ██║█████╔╝ 
+ ██╔═══╝ ██╔══██╗██╔══██║   ██║   ██║██╔═██╗ 
+ ██║     ██║  ██║██║  ██║   ██║   ██║██║  ██╗
+ ╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   ╚═╝╚═╝  ╚═╝
+          ░░ K A R M A K A R ░░
 ```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&pause=800&color=00FF41&background=00000000&center=true&vCenter=true&width=700&lines=%5BSYSTEM+BOOT%5D+Initializing+Pratik.exe...;%3E+Student+%7C+AI%2FML+Engineer+%7C+Cloud+Architect;%3E+Exploiting+knowledge+since+2022...;%3E+Currently+hacking+on+E-commerce+AI...;%3E+chmod+%2Bx+./build_the_future.sh;%3E+sudo+apt+install+curiosity+--upgrade;%5BACCESS+GRANTED%5D+Welcome+to+my+profile_" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=700&color=00FF41&background=00000000&center=true&vCenter=true&width=750&lines=%5BSYSTEM+BOOT%5D+Initializing+Pratik.exe...;%3E+Student+%7C+AI%2FML+Engineer+%7C+Cloud+Architect;%3E+Exploiting+knowledge+since+2022...;%3E+chmod+%2Bx+.%2Fbuild_the_future.sh+%26%26+.%2Fbuild_the_future.sh;%3E+sudo+apt+install+curiosity+--upgrade+--force;%3E+Deploying+neural+nets+to+production...;%3E+WARNING%3A+This+profile+contains+dangerous+ideas.;%5BACCESS+GRANTED%5D+You+may+proceed._" />
 
-<br/>
+</div>
 
-![Profile Views](https://komarev.com/ghpvc/?username=pratikatcoding&label=PROFILE+VIEWS&color=00ff41&style=flat-square)
-&nbsp;&nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/pratikatcoding?label=FOLLOWERS&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/pratikatcoding)
+---
+
+<div align="center">
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ⚠  THREAT INTELLIGENCE REPORT — SUBJECT: PRATIK KARMAKAR  ⚠  │
+│  CLEARANCE  : UNRESTRICTED                                      │
+│  THREAT LVL : ████████████████░░░░  CRITICAL                   │
+│  VECTOR     : AI/ML · Cloud · Full-Stack · DevOps               │
+│  SIGNATURE  : pratikatcoding [VERIFIED]                         │
+│  LAST SEEN  : Bhilai, Chhattisgarh — ACTIVE NOW                 │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=pratikatcoding&label=RECON+ATTEMPTS&color=00ff41&style=flat-square)
+&nbsp;
+[![GitHub followers](https://img.shields.io/github/followers/pratikatcoding?label=NETWORK+NODES&style=flat-square&color=00ff41&labelColor=0d1117)](https://github.com/pratikatcoding)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-ONLINE-00ff41?style=flat-square&labelColor=0d1117)
+&nbsp;
+![Threat Level](https://img.shields.io/badge/THREAT_LVL-CRITICAL-ff0000?style=flat-square&labelColor=0d1117)
 
 </div>
 
@@ -25,32 +47,74 @@
 
 ```bash
 ┌──(pratik㉿universe)-[~/about-me]
-└─$ cat whoami.txt
+└─$ cat /etc/passwd | grep pratik && cat whoami.txt
 ```
 
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  NAME     : Pratik Karmakar                                  ║
-║  ROLE     : B.Tech CSE (AI/ML) Student — IBM Track           ║
-║  BASE     : Bhilai, Chhattisgarh, India                      ║
-║  ORIGIN   : Durgapur, West Bengal                            ║
-║  STATUS   : [ ONLINE ] Building & Breaking Things            ║
-║  CURRENT  : E-Commerce × AI Recommendation Engine            ║
-║  LEARNING : Neural Nets → Transformers → The Unknown         ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════╗
+║  ██ IDENTITY DUMP — CLASSIFIED ██                               ║
+╠══════════════════════════════════════════════════════════════════╣
+║  ALIAS    : pratik / pratikatcoding                             ║
+║  FULLNAME : Pratik Karmakar                                     ║
+║  ROLE     : B.Tech CSE (AI/ML) — IBM Track                      ║
+║  BASE     : Bhilai, Chhattisgarh, India  [28.6°N 77.2°E]       ║
+║  ORIGIN   : Durgapur, West Bengal                               ║
+║  STATUS   : [■ ONLINE] Building. Breaking. Iterating.           ║
+║  MISSION  : E-Commerce × AI Recommendation Engine               ║
+║  PAYLOAD  : Neural Nets → CNNs → RNNs → Transformers            ║
+║  SHELL    : /bin/zsh  [Oh-My-Zsh  ████████████ ARMED]          ║
+║  UPTIME   : Since 2022 — no scheduled downtime                  ║
+╚══════════════════════════════════════════════════════════════════╝
 ```
 
 ---
 
 ```bash
 ┌──(pratik㉿universe)-[~/skills]
-└─$ ls -la ./arsenal/
+└─$ tree ./arsenal --depth=2 && cat skill_matrix.log
 ```
 
-## `> WEAPONS OF CHOICE`
+## `> SKILL MATRIX — XP LEVELS`
+
+```
+CATEGORY          SKILL               XP BAR                  LVL
+──────────────────────────────────────────────────────────────────
+[ LANGUAGES ]
+                  Python              ████████████████░░░░    80
+                  JavaScript          ██████████████░░░░░░    70
+                  C / C++             ████████████░░░░░░░░    60
+                  Java                ██████████░░░░░░░░░░    50
+                  C#                  ████████░░░░░░░░░░░░    40
+
+[ AI / ML ]
+                  Regression/Class.   ██████████████████░░    90
+                  Neural Networks     ████████████████░░░░    80
+                  CNNs / RNNs         ██████████████░░░░░░    70
+                  Transformers        ████████████░░░░░░░░    60  ← ACTIVE GRIND
+                  MLflow / Tuning     ████████░░░░░░░░░░░░    40
+
+[ CLOUD & DEVOPS ]
+                  AWS                 ██████████████████░░    90
+                  Docker              ████████████████████   100  ← MASTERED
+                  Kubernetes          ██████████████████░░    90
+                  CI/CD Pipelines     ████████████████░░░░    80
+                  Terraform / IaC     ██████████████░░░░░░    70
+
+[ FRONTEND ]
+                  React               ████████████████░░░░    80
+                  Vue.js              ██████████████░░░░░░    70
+                  TailwindCSS         ████████████████████   100  ← MASTERED
+                  Flutter             ████████░░░░░░░░░░░░    40
+
+[ DATABASES ]
+                  MySQL / PostgreSQL  ██████████████████░░    90
+                  MongoDB             ████████████████░░░░    80
+                  Firebase            ██████████████░░░░░░    70
+──────────────────────────────────────────────────────────────────
+```
 
 <details>
-<summary><code>[ EXPAND TECH STACK ]</code></summary>
+<summary><code>[ EXPAND FULL BADGE ARSENAL ]</code></summary>
 
 <br/>
 
@@ -77,6 +141,7 @@
 ![GitHub Actions](https://img.shields.io/badge/GH_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=Cloudflare&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white)
 
 **// FRAMEWORKS & RUNTIME**
 
@@ -88,7 +153,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=flat-square&logo=.net&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-%23white.svg?style=flat-square&logo=opencv&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=flat-square&logo=opencv&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
 
 **// AI / ML**
 
@@ -98,6 +164,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black)
 ![MLflow](https://img.shields.io/badge/MLflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
 
 **// DATABASES**
 
@@ -105,18 +172,28 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34)
+![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=redis&logoColor=white)
 
-**// TOOLS & PLATFORMS**
+**// TESTING & QA**
 
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=flat-square&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-%232EAD33?style=flat-square&logo=playwright&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-252529?style=flat-square&logo=vitest&logoColor=FCC72B)
+![Mocha](https://img.shields.io/badge/Mocha-%238D6748?style=flat-square&logo=mocha&logoColor=white)
+
+**// HARDWARE & EMBEDDED**
+
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=flat-square&logo=nVIDIA&logoColor=white)
+
+**// DESIGN & CREATIVE**
+
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/Illustrator-%23FF9A00.svg?style=flat-square&logo=adobe%20illustrator&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/After_Effects-9999FF.svg?style=flat-square&logo=Adobe%20After%20Effects&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 
 </details>
 
@@ -124,30 +201,105 @@
 
 ```bash
 ┌──(pratik㉿universe)-[~/active-ops]
-└─$ ps aux | grep mission
+└─$ ps aux --sort=-%cpu | grep mission
 ```
 
-## `> ACTIVE MISSIONS`
+## `> ACTIVE OPERATIONS`
 
 ```
-[PROC 001] ████████████░░░░░░  65%  E-Commerce × AI Recommendation Engine
-           └─ Status: IN PROGRESS | Stack: Python, ML, React
+╔══════════════════════════════════════════════════════════════════╗
+║  PID    CPU   MEM   PROCESS                    STATUS           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  001    87%   2.1G  e-commerce-ai-engine.py    [▶ RUNNING]      ║
+║         └─ Stack  : Python · React · ML · AWS                   ║
+║         └─ Target : Personalized product rec. via collaborative  ║
+║                     filtering + transformer embeddings           ║
+╠══════════════════════════════════════════════════════════════════╣
+║  002    34%   512M  realtime-collab-app         [◈ RECRUITING]  ║
+║         └─ Stack  : WebSockets · Node.js · Redis                ║
+║         └─ Target : Sub-100ms sync across distributed clients   ║
+║         └─ Need   : CO-DEVELOPER — ping me                      ║
+╠══════════════════════════════════════════════════════════════════╣
+║  003    12%   128M  net-vuln-scanner            [◌ RESEARCH]    ║
+║         └─ Stack  : Python · Scapy · Nmap APIs                  ║
+║         └─ Target : Automated CVE mapping + report generation   ║
+║         └─ Need   : COLLABORATORS — doors open                  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  004    99%   ∞     neural-net-grind.sh         [∞ PERPETUAL]   ║
+║         └─ Phase  : CNNs ✓ → RNNs/LSTMs ✓ → Transformers ←NOW  ║
+║         └─ ETA    : Never. Knowledge has no EOF.                 ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-[PROC 002] ████████░░░░░░░░░░  40%  Realtime Collaboration App
-           └─ Status: SEEKING CO-DEVELOPER | Stack: WebSockets, Node
+---
 
-[PROC 003] █████░░░░░░░░░░░░░  25%  Network Vulnerability Scanner
-           └─ Status: RESEARCH PHASE | Seeking: Collaborators
+```bash
+┌──(pratik㉿universe)-[~/exploit-log]
+└─$ cat ./project_breach_reports/*.log | head -n 50
+```
 
-[PROC 004] ██████████████████  99%  Learning Neural Nets → Transformers
-           └─ Status: PERPETUAL | Current: CNNs, RNNs, Attention Mechanisms
+## `> EXPLOIT LOG — NOTABLE PROJECTS`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  [BREACH-001] Hotel Reservation System                          ║
+║  ─────────────────────────────────────────────────────────────  ║
+║  VECTOR  : Flask · HTML/CSS · SQLite                            ║
+║  PAYLOAD : Full CRUD reservation engine, admin dashboard,       ║
+║            room availability logic, booking conflict resolver   ║
+║  STATUS  : DEPLOYED ✓                                           ╠
+╠══════════════════════════════════════════════════════════════════╣
+║  [BREACH-002] Portfolio OS — glassmorphism.exe                  ║
+║  ─────────────────────────────────────────────────────────────  ║
+║  VECTOR  : HTML · CSS · JS · GitHub Pages                       ║
+║  PAYLOAD : Personal OS-style portfolio with glassmorphism UI,   ║
+║            animated terminal, project showcase modules          ║
+║  STATUS  : LIVE @ GitHub Pages ✓                                ║
+╠══════════════════════════════════════════════════════════════════╣
+║  [BREACH-003] E-Commerce AI Engine  [IN PROGRESS]               ║
+║  ─────────────────────────────────────────────────────────────  ║
+║  VECTOR  : Python · React · AWS · TensorFlow                    ║
+║  PAYLOAD : AI-powered product recommendation using collab.      ║
+║            filtering, content-based + hybrid ML models          ║
+║  STATUS  : 65% COMPLETE ░░░░░░░░░░░░░░░░░░░                    ║
+╠══════════════════════════════════════════════════════════════════╣
+║  [BREACH-004] Network Vulnerability Scanner  [RESEARCH]         ║
+║  ─────────────────────────────────────────────────────────────  ║
+║  VECTOR  : Python · Scapy · Nmap                                ║
+║  PAYLOAD : Automated port scanning, CVE lookup, PDF report gen  ║
+║  STATUS  : 25% COMPLETE ░░░░░░░░░░░░░░                         ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+> 🔗 All source: **[github.com/pratikatcoding](https://github.com/pratikatcoding)**
+
+---
+
+```bash
+┌──(pratik㉿universe)-[~/network]
+└─$ netstat -an | grep ESTABLISHED
+```
+
+## `> NETSTAT — ESTABLISHED CONNECTIONS`
+
+```
+Proto  Local Address          Foreign Address         State
+──────────────────────────────────────────────────────────────────
+TCP    pratik:8080         →  aws-cloud:443           ESTABLISHED
+TCP    pratik:3000         →  react-frontend:80       ESTABLISHED
+TCP    pratik:5432         →  postgresql-db:5432      ESTABLISHED
+TCP    pratik:6443         →  kubernetes-api:6443     ESTABLISHED
+TCP    pratik:brain        →  tensorflow-core:∞       ESTABLISHED
+TCP    pratik:curiosity    →  internet:443            TIME_WAIT
+──────────────────────────────────────────────────────────────────
+6 connections active  |  0 dropped  |  ∞ queued
 ```
 
 ---
 
 ```bash
 ┌──(pratik㉿universe)-[~/stats]
-└─$ ./fetch_github_analytics.sh --user pratikatcoding
+└─$ ./fetch_github_analytics.sh --user pratikatcoding --verbose
 ```
 
 ## `> SYSTEM ANALYTICS`
@@ -156,10 +308,9 @@
 
 [![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pratikatcoding&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/pratikatcoding)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=pratikatcoding&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&stroke=00ff4133)
+[![GitHub Streak](https://streak-stats.demolab.com?user=pratikatcoding&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&stroke=00ff4133)](https://github.com/pratikatcoding)
 
 [![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratikatcoding&theme=github_dark&hide_border=true&layout=compact)](https://github.com/pratikatcoding)
-
 
 </div>
 
@@ -167,10 +318,10 @@
 
 ```bash
 ┌──(pratik㉿universe)-[~/stats]
-└─$ ./fetch_github_analytics.sh --mode contributions
+└─$ ./fetch_github_analytics.sh --mode contributions --graph
 ```
 
-## `> TOP CONTRIBUTIONS`
+## `> CONTRIBUTION HEATMAP`
 
 <div align="center">
 
@@ -182,16 +333,30 @@
 
 ```bash
 ┌──(pratik㉿universe)-[~/network]
-└─$ ping --all ./social_handles
+└─$ nmap -sV --open ./social_handles -oN scan_results.txt
 ```
 
-## `> OPEN PORTS / SOCIAL`
+## `> PORT SCAN — SOCIAL ATTACK SURFACE`
+
+```
+Starting Nmap scan on: pratik-karmakar
+──────────────────────────────────────────────────────────────────
+PORT        STATE   SERVICE     VERSION
+22/linkedin OPEN    ssh         Professional Network v2.0
+80/github   OPEN    http        Source Code Repository
+443/email   OPEN    https       Gmail Encrypted Channel
+3000/x      OPEN    stream      Twitter/X Social Feed
+8080/insta  OPEN    http        Visual Content Stream
+9000/disc   OPEN    udp         Voice + Community Hub
+──────────────────────────────────────────────────────────────────
+6 open ports | 0 filtered | Scan complete
+```
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratik-karmakar-2335b02a4/)
 [![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pratikatcoding)
-[![X](https://img.shields.io/badge/X__TWITTER-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pratikk__18)
+[![X](https://img.shields.io/badge/X__TWITTER-000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/pratikk__18)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pratik__karmakar)
 [![Discord](https://img.shields.io/badge/DISCORD-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/U3M7vDQU)
 [![Email](https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pratikkarmakar764@gmail.com)
@@ -201,11 +366,37 @@
 ---
 
 ```bash
-┌──(pratik㉿universe)-[~/quotes]
-└─$ fortune | cowsay -f tux
+┌──(pratik㉿universe)-[~/classified]
+└─$ cat /var/log/pratik/philosophy.txt
 ```
 
-## `> DAILY TRANSMISSION`
+## `> CLASSIFIED — DEVELOPER PHILOSOPHY`
+
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  FILE: /root/beliefs.conf            [TOP SECRET]               ║
+╠══════════════════════════════════════════════════════════════════╣
+║                                                                  ║
+║  01  Every bug is a backdoor to deeper understanding.           ║
+║  02  The best code is the code you don't have to write.         ║
+║  03  Cloud is just someone else's computer — know whose.        ║
+║  04  If it's not in version control, it doesn't exist.          ║
+║  05  Models don't lie. Your data does.                          ║
+║  06  Ship fast. Break things. Patch faster.                     ║
+║  07  The only secure system is one that doesn't exist.          ║
+║  08  Documentation is the real legacy code.                     ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
+---
+
+```bash
+┌──(pratik㉿universe)-[~/quotes]
+└─$ fortune | cowsay -f dragon && cat /dev/random | head -c 1
+```
+
+## `> INTERCEPTED TRANSMISSION`
 
 <div align="center">
 
@@ -217,24 +408,36 @@
 
 ```bash
 ┌──(pratik㉿universe)-[~]
-└─$ echo $SIGN_OFF
+└─$ sudo shutdown -h now  # just kidding. never stops.
 ```
 
 ```
-╔═══════════════════════════════════════════════════════════════╗
-║                                                               ║
-║   "The quieter you become, the more you are able to hear."   ║
-║                                    — Kali Linux               ║
-║                                                               ║
-║   > Building in public. Breaking things privately.           ║
-║   > Fun fact: I think I'm funny. The compiler disagrees.     ║
-║                                                               ║
-║   [ EOF ] — Thanks for reading. Go build something cool.     ║
-╚═══════════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════════════╗
+║                                                                   ║
+║   "The quieter you become, the more you are able to hear."       ║
+║                                           — Kali Linux            ║
+║                                                                   ║
+║   root@universe:~# whoami                                        ║
+║   > A student who forgot to log off.                             ║
+║                                                                   ║
+║   root@universe:~# uptime                                        ║
+║   > Since 2022 — load avg: curiosity, caffeine, compile errors   ║
+║                                                                   ║
+║   root@universe:~# last login                                    ║
+║   > You. Right now. You're the intrusion detection system.       ║
+║                                                                   ║
+║   [■] Building in public.  [■] Breaking things privately.        ║
+║   [■] The compiler still disagrees that I'm funny.               ║
+║                                                                   ║
+║   ─────────────────────────────────────────────────────────────  ║
+║   [ CONNECTION TERMINATED ] — Go build something dangerous.      ║
+╚═══════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=pratikatcoding&icon=5&color=12)](https://visitcount.itsvg.in)
+
+![Recon](https://img.shields.io/badge/You%20have%20been-LOGGED-00ff41?style=flat-square&labelColor=0d1117)
 
 </div>
