@@ -24,9 +24,9 @@
 
 ```
 ┌─────────────────────────────────────────────────────────────────┐
-│  ⚠  THREAT INTELLIGENCE REPORT — SUBJECT: PRATIK KARMAKAR  ⚠  │
+│  ⚠  THREAT INTELLIGENCE REPORT — SUBJECT: PRATIK KARMAKAR  ⚠   │
 │  CLEARANCE  : UNRESTRICTED                                      │
-│  THREAT LVL : ████████████████░░░░  CRITICAL                   │
+│  THREAT LVL : ████████████████░░░░  CRITICAL                    │
 │  VECTOR     : AI/ML · Cloud · Full-Stack · DevOps               │
 │  SIGNATURE  : pratikatcoding [VERIFIED]                         │
 │  LAST SEEN  : Bhilai, Chhattisgarh — ACTIVE NOW                 │
@@ -52,18 +52,18 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  ██ IDENTITY DUMP — CLASSIFIED ██                               ║
+║  ██ IDENTITY DUMP — CLASSIFIED ██                                ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  ALIAS    : pratik / pratikatcoding                             ║
-║  FULLNAME : Pratik Karmakar                                     ║
-║  ROLE     : B.Tech CSE (AI/ML) — IBM Track                      ║
-║  BASE     : Bhilai, Chhattisgarh, India  [28.6°N 77.2°E]       ║
-║  ORIGIN   : Durgapur, West Bengal                               ║
-║  STATUS   : [■ ONLINE] Building. Breaking. Iterating.           ║
-║  MISSION  : E-Commerce × AI Recommendation Engine               ║
-║  PAYLOAD  : Neural Nets → CNNs → RNNs → Transformers            ║
-║  SHELL    : /bin/zsh  [Oh-My-Zsh  ████████████ ARMED]          ║
-║  UPTIME   : Since 2022 — no scheduled downtime                  ║
+║  ALIAS    : pratik / pratikatcoding                              ║
+║  FULLNAME : PRATIK KARMAKAR                                      ║
+║  ROLE     : B.Tech CSE (AI/ML) — IBM                             ║
+║  BASE     : Bhilai, Chhattisgarh, India  [28.6°N 77.2°E]         ║
+║  ORIGIN   : West Bengal                                          ║
+║  STATUS   : [■ ONLINE] Building. Breaking. Iterating.            ║
+║  MISSION  : E-Commerce × AI Recommendation Engine                ║
+║  PAYLOAD  : Neural Nets → CNNs → RNNs → Transformers             ║
+║  SHELL    : /bin/zsh  [Oh-My-Zsh  ████████████ ARMED]            ║
+║  UPTIME   : Since 2022 — No scheduled downtime                   ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -82,32 +82,32 @@ CATEGORY          SKILL               XP BAR                  LVL
 [ LANGUAGES ]
                   Python              ████████████████░░░░    80
                   JavaScript          ██████████████░░░░░░    70
-                  C / C++             ████████████░░░░░░░░    60
+                  C / C++             ████████████████████    100  ← MASTERED
                   Java                ██████████░░░░░░░░░░    50
-                  C#                  ████████░░░░░░░░░░░░    40
+                  C#                  ████████░░░░░░░░░░░░    40   ← ACTIVE GRIND
 
 [ AI / ML ]
                   Regression/Class.   ██████████████████░░    90
-                  Neural Networks     ████████████████░░░░    80
+                  Neural Networks     ████████████████░░░░    80  ← ACTIVE GRIND
                   CNNs / RNNs         ██████████████░░░░░░    70
                   Transformers        ████████████░░░░░░░░    60  ← ACTIVE GRIND
                   MLflow / Tuning     ████████░░░░░░░░░░░░    40
 
 [ CLOUD & DEVOPS ]
-                  AWS                 ██████████████████░░    90
+                  AWS                 ████████████████░░░░    80
                   Docker              ████████████████████   100  ← MASTERED
                   Kubernetes          ██████████████████░░    90
-                  CI/CD Pipelines     ████████████████░░░░    80
+                  CI/CD Pipelines     ████████████████░░░░    80  ← ACTIVE GRIND
                   Terraform / IaC     ██████████████░░░░░░    70
 
 [ FRONTEND ]
-                  React               ████████████████░░░░    80
+                  React               ████████████████░░░░    80  ← ACTIVE GRIND
                   Vue.js              ██████████████░░░░░░    70
                   TailwindCSS         ████████████████████   100  ← MASTERED
                   Flutter             ████████░░░░░░░░░░░░    40
 
 [ DATABASES ]
-                  MySQL / PostgreSQL  ██████████████████░░    90
+                  MySQL / PostgreSQL  ██████████████████░░    90  ← ACTIVE GRIND
                   MongoDB             ████████████████░░░░    80
                   Firebase            ██████████████░░░░░░    70
 ──────────────────────────────────────────────────────────────────
@@ -208,25 +208,25 @@ CATEGORY          SKILL               XP BAR                  LVL
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  PID    CPU   MEM   PROCESS                    STATUS           ║
+║  PID    CPU   MEM   PROCESS                    STATUS            ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  001    87%   2.1G  e-commerce-ai-engine.py    [▶ RUNNING]      ║
-║         └─ Stack  : Python · React · ML · AWS                   ║
+║         └─ Stack  : Python · React · ML · AWS                    ║
 ║         └─ Target : Personalized product rec. via collaborative  ║
 ║                     filtering + transformer embeddings           ║
 ╠══════════════════════════════════════════════════════════════════╣
 ║  002    34%   512M  realtime-collab-app         [◈ RECRUITING]  ║
-║         └─ Stack  : WebSockets · Node.js · Redis                ║
-║         └─ Target : Sub-100ms sync across distributed clients   ║
-║         └─ Need   : CO-DEVELOPER — ping me                      ║
+║         └─ Stack  : WebSockets · Node.js · Redis                 ║
+║         └─ Target : Sub-100ms sync across distributed clients    ║
+║         └─ Need   : CO-DEVELOPER — ping me                       ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  003    12%   128M  net-vuln-scanner            [◌ RESEARCH]    ║
-║         └─ Stack  : Python · Scapy · Nmap APIs                  ║
-║         └─ Target : Automated CVE mapping + report generation   ║
-║         └─ Need   : COLLABORATORS — doors open                  ║
+║  003    12%   128M  net-vuln-scanner            [◌ RESEARCH]     ║
+║         └─ Stack  : Python · Scapy · Nmap APIs                   ║
+║         └─ Target : Automated CVE mapping + report generation    ║
+║         └─ Need   : COLLABORATORS — doors open                   ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  004    99%   ∞     neural-net-grind.sh         [∞ PERPETUAL]   ║
-║         └─ Phase  : CNNs ✓ → RNNs/LSTMs ✓ → Transformers ←NOW  ║
+║  004    99%   ∞     neural-net-grind.sh         [∞ PERPETUAL]    ║
+║         └─ Phase  : CNNs ✓ → RNNs/LSTMs ✓ → Transformers ←NOW   ║ 
 ║         └─ ETA    : Never. Knowledge has no EOF.                 ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -242,32 +242,32 @@ CATEGORY          SKILL               XP BAR                  LVL
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  [BREACH-001] Hotel Reservation System                          ║
-║  ─────────────────────────────────────────────────────────────  ║
-║  VECTOR  : Flask · HTML/CSS · SQLite                            ║
-║  PAYLOAD : Full CRUD reservation engine, admin dashboard,       ║
-║            room availability logic, booking conflict resolver   ║
-║  STATUS  : DEPLOYED ✓                                           ╠
+║  [BREACH-001] Hotel Reservation System                           ║
+║  ─────────────────────────────────────────────────────────────   ║
+║  VECTOR  : Flask · HTML/CSS · SQLite                             ║
+║  PAYLOAD : Full CRUD reservation engine, admin dashboard,        ║
+║            room availability logic, booking conflict resolver    ║
+║  STATUS  : DEPLOYED ✓                                            ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  [BREACH-002] Portfolio OS — glassmorphism.exe                  ║
-║  ─────────────────────────────────────────────────────────────  ║
-║  VECTOR  : HTML · CSS · JS · GitHub Pages                       ║
-║  PAYLOAD : Personal OS-style portfolio with glassmorphism UI,   ║
-║            animated terminal, project showcase modules          ║
-║  STATUS  : LIVE @ GitHub Pages ✓                                ║
+║  [BREACH-002] Portfolio OS — glassmorphism.exe                   ║
+║  ─────────────────────────────────────────────────────────────   ║
+║  VECTOR  : HTML · CSS · JS · GitHub Pages                        ║
+║  PAYLOAD : Personal OS-style portfolio with glassmorphism UI,    ║
+║            animated terminal, project showcase modules           ║
+║  STATUS  : LIVE @ GitHub Pages ✓                                 ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  [BREACH-003] E-Commerce AI Engine  [IN PROGRESS]               ║
-║  ─────────────────────────────────────────────────────────────  ║
-║  VECTOR  : Python · React · AWS · TensorFlow                    ║
-║  PAYLOAD : AI-powered product recommendation using collab.      ║
-║            filtering, content-based + hybrid ML models          ║
-║  STATUS  : 65% COMPLETE ░░░░░░░░░░░░░░░░░░░                    ║
+║  [BREACH-003] E-Commerce AI Engine  [IN PROGRESS]                ║
+║  ─────────────────────────────────────────────────────────────   ║
+║  VECTOR  : Python · React · AWS · TensorFlow                     ║
+║  PAYLOAD : AI-powered product recommendation using collab.       ║
+║            filtering, content-based + hybrid ML models           ║
+║  STATUS  : 65% COMPLETE ░░░░░░░░░░░░░░░░░░░                      ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  [BREACH-004] Network Vulnerability Scanner  [RESEARCH]         ║
-║  ─────────────────────────────────────────────────────────────  ║
-║  VECTOR  : Python · Scapy · Nmap                                ║
-║  PAYLOAD : Automated port scanning, CVE lookup, PDF report gen  ║
-║  STATUS  : 25% COMPLETE ░░░░░░░░░░░░░░                         ║
+║  [BREACH-004] Network Vulnerability Scanner  [RESEARCH]          ║
+║  ─────────────────────────────────────────────────────────────   ║
+║  VECTOR  : Python · Scapy · Nmap                                 ║
+║  PAYLOAD : Automated port scanning, CVE lookup, PDF report gen   ║
+║  STATUS  : 25% COMPLETE ░░░░░░░░░░░░░░                           ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -349,7 +349,7 @@ PORT        STATE   SERVICE     VERSION
 8080/insta  OPEN    http        Visual Content Stream
 9000/disc   OPEN    udp         Voice + Community Hub
 ──────────────────────────────────────────────────────────────────
-6 open ports | 0 filtered | Scan complete
+6 open ports | 0 filtered | Scan completed 100%
 ```
 
 <div align="center">
@@ -374,18 +374,16 @@ PORT        STATE   SERVICE     VERSION
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║  FILE: /root/beliefs.conf            [TOP SECRET]               ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║  01  Every bug is a backdoor to deeper understanding.           ║
-║  02  The best code is the code you don't have to write.         ║
-║  03  Cloud is just someone else's computer — know whose.        ║
-║  04  If it's not in version control, it doesn't exist.          ║
-║  05  Models don't lie. Your data does.                          ║
-║  06  Ship fast. Break things. Patch faster.                     ║
-║  07  The only secure system is one that doesn't exist.          ║
-║  08  Documentation is the real legacy code.                     ║
-║                                                                  ║
+║  FILE: /root/beliefs.conf            [TOP SECRET]                ║
+╠══════════════════════════════════════════════════════════════════╣                                                                 
+║  01  Every bug is a backdoor to deeper understanding.            ║
+║  02  The best code is the code you don't have to write.          ║
+║  03  Cloud is just someone else's computer — know whose.         ║
+║  04  If it's not in version control, it doesn't exist.           ║
+║  05  Models don't lie. Your data does.                           ║
+║  06  Ship fast. Break things. Patch faster.                      ║
+║  07  The only secure system is one that doesn't exist.           ║
+║  08  Documentation is the real legacy code.                      ║                                                              
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -414,23 +412,24 @@ PORT        STATE   SERVICE     VERSION
 ```
 ╔═══════════════════════════════════════════════════════════════════╗
 ║                                                                   ║
-║   "The quieter you become, the more you are able to hear."       ║
-║                                           — Kali Linux            ║
+║   "The quieter you become, the more you are able to hear."        ║
+║                                             — Kali Linux          ║
 ║                                                                   ║
-║   root@universe:~# whoami                                        ║
-║   > A student who forgot to log off.                             ║
+║   root@universe:~# whoami                                         ║
+║   > A student who forgot to log off.                              ║
 ║                                                                   ║
-║   root@universe:~# uptime                                        ║
-║   > Since 2022 — load avg: curiosity, caffeine, compile errors   ║
+║   root@universe:~# uptime                                         ║
+║   > Since 2022 — Load avg: curiosity, caffeine, compile errors.   ║
 ║                                                                   ║
-║   root@universe:~# last login                                    ║
-║   > You. Right now. You're the intrusion detection system.       ║
+║   root@universe:~# last login                                     ║
+║   > You. Right now. You're the intrusion detection system.        ║
 ║                                                                   ║
-║   [■] Building in public.  [■] Breaking things privately.        ║
-║   [■] The compiler still disagrees that I'm funny.               ║
+║   [■] Building in public.                                         ║
+║   [■] Breaking things privately.                                  ║
+║   [■] The compiler still disagrees that I'm funny.                ║
 ║                                                                   ║
-║   ─────────────────────────────────────────────────────────────  ║
-║   [ CONNECTION TERMINATED ] — Go build something dangerous.      ║
+║   ─────────────────────────────────────────────────────────────   ║
+║   [ CONNECTION TERMINATED ] — Go build something Dangerous.       ║
 ╚═══════════════════════════════════════════════════════════════════╝
 ```
 
@@ -440,4 +439,5 @@ PORT        STATE   SERVICE     VERSION
 
 ![Recon](https://img.shields.io/badge/You%20have%20been-LOGGED-00ff41?style=flat-square&labelColor=0d1117)
 
+![Recon](https://img.shields.io/badge/Access%20denied?%20Try-harder-00ff41?style=flat-square&labelColor=0d1117)
 </div>
