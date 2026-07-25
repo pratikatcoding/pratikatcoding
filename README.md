@@ -154,11 +154,12 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikatcoding&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)
+[![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pratikatcoding&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false)](https://github.com/pratikatcoding)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=pratikatcoding&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&stroke=00ff4133)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikatcoding&theme=github_dark&hide_border=true&layout=compact)
+[![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pratikatcoding&theme=github_dark&hide_border=true&layout=compact)](https://github.com/pratikatcoding)
+
 
 </div>
 
