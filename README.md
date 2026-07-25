@@ -154,11 +154,11 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikatcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratikatcoding&theme=radical&hide_border=true&include_all_commits=true&count_private=false&bg_color=0d1117&title_color=00ff41&text_color=00cc33&icon_color=00ff41&border_color=00ff41)
 
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=pratikatcoding&theme=dark&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com?user=pratikatcoding&theme=dark&hide_border=true&background=0d1117&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=00cc33&stroke=00ff4133)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikatcoding&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratikatcoding&theme=radical&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=00cc33&layout=compact&border_color=00ff41)
 
 </div>
 
@@ -173,7 +173,7 @@
 
 <div align="center">
 
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=pratikatcoding&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pratikatcoding&bg_color=0d1117&color=00ff41&line=00cc33&point=00ff41&area=true&hide_border=true&area_color=00ff4122)
 
 </div>
 
